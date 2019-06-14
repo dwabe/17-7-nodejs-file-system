@@ -1,0 +1,19 @@
+{
+  "name": "17-7-nodejs-file-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwabe/17-7-nodejs-file-system.git"
+  },
+  "author": "bebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwabe/17-7-nodejs-file-system/issues"
+  },
+  "homepage": "https://github.com/dwabe/17-7-nodejs-file-system#readme"
+}
